@@ -1,0 +1,4 @@
+import AudioManager
+
+AudioManager.playRandomFile()
+

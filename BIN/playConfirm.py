@@ -1,0 +1,3 @@
+import AudioManager
+
+AudioManager.playConfirmSound()
